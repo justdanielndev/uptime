@@ -14,7 +14,7 @@ sites:
 
 status-website:
   cname: status.isitzoe.dev
-  logoUrl: https://status.isitzoe.dev/logo
+  logoUrl: https://status.isitzoe.dev/logo.svg
   name: Uptime
   themeUrl: https://status.isitzoe.dev/theme.css
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -22,5 +22,5 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/justdanielndev/uptime
+    - title: My Portfolio
+      href: https://isitzoe.dev
