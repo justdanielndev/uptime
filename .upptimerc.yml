@@ -1,6 +1,7 @@
 # Change these first
 owner: justdanielndev # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+customStatusWebsitePackage: @justdanielndev/status-page
 
 sites:
   - name: Google
