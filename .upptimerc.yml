@@ -16,7 +16,7 @@ status-website:
   name: "Zoe's Uptime Page"
   themeUrl: https://status.isitzoe.dev/theme.css
   introTitle: "**Hii!** :3 this is the status page for all my projects."
-  introMessage: "It uses GitHub Actions to monitor the status of my websites, APIs and servers. Extremely cool, right? :D Btw, if you notice any issues, please feel free to reach out to me!"
+  introMessage: "It uses GitHub Actions to monitor the status of my websites, APIs and servers. Extremely cool, right? :D Oh and btw, if you notice any issues, please feel free to reach out to me!"
   navbar:
     - title: Status
       href: /
