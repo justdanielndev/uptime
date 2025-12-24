@@ -1,6 +1,6 @@
-# [📈 Live Status](https://justdanielndev.github.io/uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.isitzoe.dev): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Z](https://nixentertainment.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repo has the uptime monitor and status page for all my public services.
 
 [![Uptime CI](https://github.com/justdanielndev/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/justdanielndev/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/justdanielndev/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/justdanielndev/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -8,7 +8,7 @@ This repository contains the open-source uptime monitor and status page for [Z](
 [![Static Site CI](https://github.com/justdanielndev/uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/justdanielndev/uptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/justdanielndev/uptime/workflows/Summary%20CI/badge.svg)](https://github.com/justdanielndev/uptime/actions?query=workflow%3A%22Summary+CI%22)
 
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/justdanielndev/uptime/issues) as incident reports, [Actions](https://github.com/justdanielndev/uptime/actions) as uptime monitors, and [Pages](https://justdanielndev.github.io/uptime) for the status page.
+The status page is powered entirely by a GitHub repository. It uses [Issues](https://github.com/justdanielndev/uptime/issues) as incident reports, [Actions](https://github.com/justdanielndev/uptime/actions) as uptime monitors, and [Pages](https://status.isitzoe.dev) for the status page itself.
 
 <!--start: status pages-->
 <!-- Do not edit this manually, your changes will be overwritten -->
@@ -21,10 +21,4 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://justdanielndev.github.io/uptime)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+[**Visit the status website →**](https://status.isitzoe.dev)
