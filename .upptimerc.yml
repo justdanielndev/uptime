@@ -9,6 +9,10 @@ sites:
     url: https://cdn.isitzoe.dev
   - name: Hack Club Wrapped
     url: https://wrapped.isitzoe.dev
+  - name: Nix Entertainment Homepage
+    url: https://nixentertainment.com
+  - name: Nix Entertainment Forms
+    url: https://forms.nixentertainment.com
 
 status-website:
   cname: status.isitzoe.dev
