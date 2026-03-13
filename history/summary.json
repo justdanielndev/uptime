@@ -4,9 +4,9 @@
     "url": "https://zoe.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/zoe.rocks.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 475,
     "timeMonth": 348,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   },
   {
     "name": "CDN",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wrapped.isitzoe.dev.ico",
     "slug": "hack-club-wrapped",
     "status": "up",
-    "uptime": "73.25%",
+    "uptime": "73.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.25%",
+    "uptimeYear": "73.27%",
     "time": 490,
     "timeDay": 661,
     "timeWeek": 598,
